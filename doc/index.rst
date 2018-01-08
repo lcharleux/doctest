@@ -12,7 +12,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   notebooks-rst/notebooks_index
+   notebooks_rst/notebooks
   
 
 

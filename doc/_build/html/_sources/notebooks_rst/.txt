@@ -1,0 +1,10 @@
+Notebooks:
+===========
+
+.. toctree::
+   :maxdepth: 5
+
+
+   other_stuff
+   stuff
+   ./notebooks-rst/2D_map
